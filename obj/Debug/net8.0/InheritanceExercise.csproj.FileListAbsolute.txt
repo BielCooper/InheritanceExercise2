@@ -1,0 +1,14 @@
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\bin\Debug\net8.0\InheritanceExercise.exe
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\bin\Debug\net8.0\InheritanceExercise.deps.json
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\bin\Debug\net8.0\InheritanceExercise.runtimeconfig.json
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\bin\Debug\net8.0\InheritanceExercise.dll
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\bin\Debug\net8.0\InheritanceExercise.pdb
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\obj\Debug\net8.0\InheritanceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\obj\Debug\net8.0\InheritanceExercise.AssemblyInfoInputs.cache
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\obj\Debug\net8.0\InheritanceExercise.AssemblyInfo.cs
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\obj\Debug\net8.0\InheritanceExercise.csproj.CoreCompileInputs.cache
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\obj\Debug\net8.0\InheritanceExercise.dll
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\obj\Debug\net8.0\refint\InheritanceExercise.dll
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\obj\Debug\net8.0\InheritanceExercise.pdb
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\obj\Debug\net8.0\InheritanceExercise.genruntimeconfig.cache
+C:\Gabriel C#\Projetos Curso\InheritanceExercise\obj\Debug\net8.0\ref\InheritanceExercise.dll
